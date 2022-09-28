@@ -2,21 +2,21 @@
   "env": {
     "PREFIX": {
       "description": "BOT CMD PREFIX Example !start /start .start",
-      "value": "/!."
+      "value": "."
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "",
+      "value": "5517319303:AAHcLjOroRpFPSvkfbq-3cTBIThIOjrN5J0",
       "required": true
     },
     "OWNER": {
       "description": "Owner user_id.",
-      "value": "",
+      "value": "5210998058",
       "required": true
     },
     "ANTISPAM": {
       "description": "Antispam bot limit bot sleep for how many time in cmd spam",
-      "value": "",
+      "value": "10",
       "required": true
     },
     "BLACKLISTED": {
